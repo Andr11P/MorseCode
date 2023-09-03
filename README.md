@@ -3,7 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Main changes
-
 Completely remade a UI, added a Navbar, footer and a few paragraphs
 
 ### `npm start`
