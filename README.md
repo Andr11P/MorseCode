@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Main changes
 
-In the project directory, you can run:
+Completely remade a UI, added a Navbar, footer and a few paragraphs
 
 ### `npm start`
 
