@@ -1,9 +1,7 @@
 import React from 'react'
 
-const C_Editor = () => {
+export default function C_Editor() {
   return (
-    <div>collaborative</div>
+    <div>Collaborative Editor</div>
   )
 }
-
-export default C_Editor
